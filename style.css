@@ -1,0 +1,50 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-image: url("bricks.jpeg");
+}
+
+#title {
+  color: white;
+  text-align: center;
+}
+
+#btn {
+  background-color: red; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0 auto;
+  display: block;
+  font-size: 16px;
+  align-items: center;
+}
+
+.btn-group{ 
+  background-color: #ec092b; /* Green background */
+  border: 1px solid #155566; /* Green border */
+  color: white; /* White text */
+  padding: 10px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  float: center; /* Float the buttons side by side */
+  text-align: center;
+  text-decoration: none;
+  margin: 0 auto;
+  display: block;
+  font-size: 16px;
+  align-items: center;
+
+}
+
+#prompt{
+  color: white;
+  text-align: center;  
+}
+
+#input1{
+  color: white;
+  text-align: center;  
+}
+
